@@ -1,1 +1,14 @@
-# qstask1
+
+- Create 3 folders.
+- Create 5 text files in each of them.
+- In folder1 add and commit all the empty files in "master". -Then add content in all files of folder1 from "first" branch.
+- In folder2, Add content and commit all the files in "Second" branch.
+- In folder 2, create another branch "sub-second", create 2 text files and and commit.
+- Merge sub-second with second.
+- In folder3, add empty files first and commit them in "third" branch. -Then add content in all files from "sub-third" branch.
+- Modify any of the file from folder3 from third branch and commit it.
+- Push all the branches from all folders in same repository.
+- Pull all the branches from repo in folder4.
+- Delete branch "first" locally.
+- Delete branch "sub-third" remotely.
+- Rename the branch "second" as "Branch-2".
